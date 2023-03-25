@@ -7,6 +7,9 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+nav.page-nav > * {
+  margin: 0 1em;
+}
 .header {
   margin-top: 2em;
   display: flex;

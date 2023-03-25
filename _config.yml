@@ -2,3 +2,6 @@ menu:
   Home: /
   Archives: /archives
   Github: https://github.com/Yasukazu/Medium-Ejs-theme-Hexo
+language: 
+ - ja
+ - en
